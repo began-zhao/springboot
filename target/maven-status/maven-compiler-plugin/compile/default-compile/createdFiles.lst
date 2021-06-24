@@ -1,0 +1,5 @@
+com\begin\boot05adminserver\service\UserService.class
+com\begin\boot05adminserver\bean\Users.class
+com\begin\boot05adminserver\service\impl\UserServiceImpl.class
+com\begin\boot05adminserver\Boot05AdminServerApplication.class
+com\begin\boot05adminserver\mapper\UsersMapper.class
