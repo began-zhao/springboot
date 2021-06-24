@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-logging:2.5.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../developer_tools/maven/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../../developer_tools/maven/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1-javadoc.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../developer_tools/maven/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1-sources.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-logging/2.5.1/spring-boot-starter-logging-2.5.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
