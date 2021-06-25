@@ -30,6 +30,12 @@
           enabled: true
           config:
             drop-table-allow: false
+  application:
+    name: beginTest
+  boot:
+    admin:
+      client:
+        url: http://localhost:8881/
 # 配置mybatis规则
 mybatis:
   #  config-location: classpath:mybatis/mybatis-config.xml
@@ -37,4 +43,13 @@ mybatis:
   configuration:
     map-underscore-to-camel-case: true
 
-
+#指标监控
+management:
+  endpoints:
+    enabled-by-default: true #暴露所有端点信息
+    web:
+      exposure:
+        include: '*'  #以web方式暴露
+logging:
+  file:
+    name: admin-client.log  #配置生成日志文件名称

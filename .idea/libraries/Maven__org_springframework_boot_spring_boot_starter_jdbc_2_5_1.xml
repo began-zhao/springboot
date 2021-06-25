@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.5.1">
+  <library name="Maven: com.alibaba:druid-spring-boot-starter:1.2.6">
     <CLASSES>
-      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-jdbc/2.5.1/spring-boot-starter-jdbc-2.5.1.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/com/alibaba/druid-spring-boot-starter/1.2.6/druid-spring-boot-starter-1.2.6.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-jdbc/2.5.1/spring-boot-starter-jdbc-2.5.1-javadoc.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/com/alibaba/druid-spring-boot-starter/1.2.6/druid-spring-boot-starter-1.2.6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://D:/Java_Development/MavenRepository/org/springframework/boot/spring-boot-starter-jdbc/2.5.1/spring-boot-starter-jdbc-2.5.1-sources.jar!/" />
+      <root url="jar://D:/Java_Development/MavenRepository/com/alibaba/druid-spring-boot-starter/1.2.6/druid-spring-boot-starter-1.2.6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

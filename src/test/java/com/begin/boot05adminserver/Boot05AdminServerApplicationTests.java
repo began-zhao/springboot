@@ -17,7 +17,7 @@ class Boot05AdminServerApplicationTests {
     UserService userService;
     @Test
     void contextLoads() {
-        Users users = userService.getByID(1);
+        Users users = userService.getById(1);
         System.out.println(users);
 
     }
